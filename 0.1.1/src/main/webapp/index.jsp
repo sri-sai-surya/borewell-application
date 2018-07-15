@@ -6,10 +6,10 @@
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
     <style>
-        body { padding-top:70px; }
+        body { padding-top:40px; }
     </style>
 </head>
-<body style="background-color:powderblue;">
+<body style="background-color:green;">
 
     <div class="container">
         <div class="jumbotron">
