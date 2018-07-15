@@ -6,16 +6,16 @@
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
     <style>
-        body { padding-top:50px; }
+        body { padding-top:70px; }
     </style>
 </head>
-<body style="background-color:powdergreen;">
+<body style="background-color:powderblue;">
 
     <div class="container">
         <div class="jumbotron">
-            <h1>Good Morning ..!</h1>
-            <h1>Welcome sri sai surya borewells!!!!  </h1>
-            <h1><a href="http://www.sss-borewell.com/"> sss-borewell </a></h1>
+            <h1>Hello!</h1>
+            <h1>Welcome to sri sai surya borewells!!!!  </h1>
+            <h1><a href="http://www.srisaisurya-borewell.com/"> srisaisurya-borewell.com </a></h1>
         </div>
     </div>
 
